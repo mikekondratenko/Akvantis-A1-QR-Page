@@ -16,7 +16,7 @@ public/
 
 `TARGET` in `index.html`, one line. Now:
 `https://akvantis-digital-passport-landing-page.michaelkondratenko.com/`. The carton's real
-address is `https://a1.akvantis.com/01/04270005511009` — put it there the day that host is
+address is `https://id.akvantis.com/01/04270005511009` — put it there the day that host is
 live. The encoder holds 84 bytes; a longer address is shown as text instead of a code.
 
 The code is black on a white plate on purpose: an inverted (white on black) QR is not read by
